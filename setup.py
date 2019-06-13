@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ophardtimport',
-    version='1.0',
+    version='1.1',
     packages=['ophardtImport'],
     url='https://github.com/Phill93/ophardtimport',
     license='GPLv3',
